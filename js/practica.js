@@ -4,8 +4,8 @@
 
 let nombre ="Micaela"
 let numero = 15
-let bolean = true
+let boolean = true
 
 console.log(nombre)
 console.log(numero)
-console.log(bolean)
+console.log(boolean)
