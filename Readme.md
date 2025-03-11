@@ -10,7 +10,6 @@ Edad:
 Contacto tutor (Teléfono celular-fijo): 
 Fecha: dd-mm-aaaa
 Colegio:
-
 Motivo de consulta- diagnostico: Deriva de colegio, derivo otro profesional, duda interna familiar, evaluacion especifica. 
 Observación
 
@@ -28,12 +27,13 @@ Parte 3)
 Alta o derivación> En esta interfaz se cierra la ficha del paciente dejando los datos guardado en la base de datos pero ya no en la pantalla principal. 
 
 En la entrega del 15/03/2025 solamente se hara la interfaz parte 1. 
+https://github.com/crcristian97/coder-sabado-js
 
 Objetivos entrega 1:
 *Declara variables, constantes y arrays
 *Crea una o más funciones JS que generen interacción
 *Agrega los ciclos de iteración y/o condicionales necesarios, para que tu proyecto funcione correctamente
-*Integra el uso de la Consola JS y de los cuadros de diálogo Prompt, Confirm y Alert
+*Integra el uso de la Consola JS y de los cuadros de diálogo Prompt, confirm y Alert
 *Crea al menos 3 funciones siguiendo el algoritmo básico de todo programa (entradas de datos, procesamiento de datos y mostrar los resultado de salida de los mismos.)
 *Realizar llamadas(invocar) a las funciones que utilizaste en tu simulador
 
